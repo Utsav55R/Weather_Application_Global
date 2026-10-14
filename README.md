@@ -1,6 +1,6 @@
 # Weather App
 
-A simple full stack weather app built with HTML/CSS/JS and Node.js + Express. No database.
+A simple full stack weather app built with HTML/CSS/JS and Node.js + Express.
 
 
 ## Structure
